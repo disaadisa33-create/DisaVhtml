@@ -1,44 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Single-Page CV</title>
-	<style>
 
-		body {
-			margin: 50px;
-			border-top: 5px solid black;
-			font-family: "Times New Roman",serif;
-			text-align: left;
-		}
-
-		h1 {
-			font-size: 24px;
-			font-weight: bold;
-		}
-
-		h3.satu {
-			font-size: 14px;
-			color: green;
-		}
-
-		h2.dua {
-			font-size: 16px;
-			color: skyblue;
-		}
-
-		p {
-			font-size: 12px;
-			font-weight: bold;
-		}
-
-		li {
-			font-size: 12px;
-			font-weight: bold;
-		}
-
-	</style>
 </head>
 <body>
 
@@ -47,15 +9,12 @@
 	<p>Damaran Street, Damaran, Jepon</p>
 	<p>Blora</p>
 	<p>(+62) 853-2555-7843</p>
-
 	<h3 class="satu">Skills</h3>
 	<p>HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation</p>
-
 	<h3 class="satu">Education</h3>
 	<h2 class="dua">SMKN 2 BLORA, 11 Rajawali Street, Tempelan, Blora - Financial and Institutional Accounting</h2>
 	<p>July 2019 to June 2022</p>
 	<p>Bookeeping, Financial Reporting, Account Reconciliation, Account Payable/Receivable, Payroll, Accounting Software</p>
-
 	<h3 class="satu">Experience</h3>
 	<h2 class="dua">Ramayana Salatiga Mall, 2 Pemuda Street, Sidorejo, Salatiga - SPG</h2>
 	<p>September 2023 to June 2024</p>
@@ -64,7 +23,6 @@
 		<li>Be able to beat competitor sales</li>
 	</ul>
 	<p>Skills: Communication Skills, Active Listening, Empathy, Persuation, Problem-Solving, Relationship Building, Adaptability, Product Knowledge, Presentation Skills, Target Orientation, Negotiation Skills, Customer Engagement</p>
-
 	<h3 class="satu">Across The Internet</h3>
 	<p>disaadisa33-create</p>
 
