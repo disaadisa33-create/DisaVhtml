@@ -15,11 +15,11 @@
 	<h3 class="satu">Skills</h3>
 	<p>HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation</p>
 	<h3 class="satu">Education</h3>
-	<h2 class="dua">SMKN 2 BLORA, 11 Rajawali Street, Tempelan, Blora - Financial and Institutional Accounting</h2>
+	<p class="dua">SMKN 2 BLORA, 11 Rajawali Street, Tempelan, Blora - Financial and Institutional Accounting</p>
 	<p>July 2019 to June 2022</p>
 	<p>Bookeeping, Financial Reporting, Account Reconciliation, Account Payable/Receivable, Payroll, Accounting Software</p>
 	<h3 class="satu">Experience</h3>
-	<h2 class="dua">Ramayana Salatiga Mall, 2 Pemuda Street, Sidorejo, Salatiga - SPG</h2>
+	<p class="dua">Ramayana Salatiga Mall, 2 Pemuda Street, Sidorejo, Salatiga - SPG</p>
 	<p>September 2023 to June 2024</p>
 	<ul>
 		<li>Be able achieve sales target orientation</li>
