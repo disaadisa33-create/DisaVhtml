@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Single-Page CV</title>
+	<link rel="shortcut icon" href="https://pixabay.com/vectors/github-github-logo-github-icon-6980894/" type="image/x-icon">
 </head>
 <body>
 
