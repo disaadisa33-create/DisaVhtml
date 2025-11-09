@@ -18,7 +18,7 @@
 	<p>Damaran Street, Damaran, Jepon</p>
 	<p>Blora</p>
 	<p>(+62) 853-2555-7843</p>
-<p>adisaendahvirdiansa@gmail.com</p>
+ <p>adisaendahvirdiansa@gmail.com</p>
 	<br>
 	<h3>Skills</h3>
 	<p>HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation</p>
